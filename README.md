@@ -1,6 +1,8 @@
 # E-Commerce_RecommendationEngine_SQL
 This will help to design and implement a robust recommendation engine for an e-commerce platform using SQL.
 
+
+
 💡Task Done:
 Key Objectives:
 
@@ -11,6 +13,8 @@ Key Objectives:
 ● Segment users based on their behavior and preferences to deliver personalized product recommendations.
 
 ● Evaluate and optimize the recommendation engine's performance to enhance user engagement and increase conversion rates.
+
+
 
 🚀Data Analysis and Exploration:
 ● Utilize SQL queries to perform exploratory data analysis (EDA) on the database tables.
