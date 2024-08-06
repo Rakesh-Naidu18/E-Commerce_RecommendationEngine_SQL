@@ -17,6 +17,7 @@ Key Objectives:
 
 
 🚀Data Analysis and Exploration:
+
 ● Utilize SQL queries to perform exploratory data analysis (EDA) on the database tables.
 
 ● Analyze user interactions by counting views, clicks, and purchases for each product.
